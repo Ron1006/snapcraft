@@ -1,3 +1,9 @@
+### 🎥 Demo Video
+
+[![Snapcraft Demo](https://img.youtube.com/vi/kX_6Z6wZrt0/0.jpg)](https://www.youtube.com/watch?v=kX_6Z6wZrt0)
+
+
+
 🎉 Snapcraft – AI Image Creation App
 
 A UWP-based AI image generation and processing application built for speed, usability, and flexibility.
